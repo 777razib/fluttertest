@@ -22,10 +22,7 @@ class Urls {
   static String getCalendar(String date, String locationUuid) =>
       '$_baseUrl/calendar?date=$date&pickup_location_uuid=$locationUuid';
 
-  static const String googleApiKey = "AIzaSyC7AoMhe2ZP3iHflCVr6a3VeL0ju0bzYVE";
-
+  // TODO: Store API keys securely, for example using flutter_dotenv. Do not commit them to version control.
+  // static const String googleApiKey = "YOUR_GOOGLE_API_KEY";
 
 }
-
-
-
