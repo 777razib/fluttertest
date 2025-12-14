@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213838240366",
+    "project_id": "real-time-data-a40b8",
+    "storage_bucket": "real-time-data-a40b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213838240366:android:e04a6cb6501b6693b9647f",
+        "android_client_info": {
+          "package_name": "com.example.fluttertest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg0hCyP6HMZQtZ2GF7qsta98_Iheorw3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
